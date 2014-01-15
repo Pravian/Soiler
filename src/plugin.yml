@@ -1,0 +1,9 @@
+name: Soiler
+main: net.darthcraft.soiler.Soiler
+version: 1.1
+description: Automatic seeding with a command
+authors: [DarthSalamon]
+commands:
+  autoseed:
+    description: Set AutoSeeder
+    usage: /<command> <wheat|potato|carrot|all|off>
