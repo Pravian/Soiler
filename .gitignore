@@ -1,10 +1,11 @@
-# Netbeans excludes - StevenLawson & JeromSar
+# Netbeans excludes
 /nbproject/private/
 /dist/
 /build/
 manifest.mf
+nbactions.xml
 
-# Eclipse excludes - JeromSar (old)
+# Eclipse excludes
 .project
 .classpath
 /bin/
@@ -17,3 +18,6 @@ manifest.mf
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Maven
+/target
